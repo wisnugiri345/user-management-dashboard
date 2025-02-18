@@ -22,7 +22,7 @@ This is a simple **User Management Dashboard** built with **React.js**, **Redux 
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/wisnugiri345/user-management-dashboard.git
    cd user-management-dashboard
 
 ## Docker Setup
